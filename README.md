@@ -1,6 +1,6 @@
 #Ramble On#
 
-**Ramble On!** is a geography trivia minigame developed in Java using custom GUI frameworks for Computer Science III (CSE 219) at Stony Brook University.
+**Ramble On!** is a geography trivia minigame developed in Java using custom GUI frameworks for Computer Science III (CSE 219) at Stony Brook University, during the Spring 2013 semester.
 
 #Notes:#
 - This game was made with applying certain development skills in mind, as opposed to style and practical enjoyment.
